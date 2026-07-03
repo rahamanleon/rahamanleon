@@ -23,3 +23,13 @@ I'm Rahaman Leon — a developer building AI tools, open-source APIs, and automa
 | [WorldCup2026](https://github.com/rahamanleon/worldcup2026) | FIFA World Cup 2026 REST API | |
 | [Dora Agent](https://github.com/rahamanleon/Dora-agent) | AI Agent with memory and web tools | |
 | [PicoClaw](https://github.com/rahamanleon/picoclaw) | Tiny Go AI assistant | |
+
+
+---
+
+## 📬 Contact
+
+- **Email**: rahamanleon16@gmail.com
+- **Repository**: [https://github.com/rahamanleon/rahamanleon](https://github.com/rahamanleon/rahamanleon)
+- **Issues**: [https://github.com/rahamanleon/rahamanleon/issues](https://github.com/rahamanleon/rahamanleon/issues)
+- **GitHub**: [https://github.com/rahamanleon](https://github.com/rahamanleon)
