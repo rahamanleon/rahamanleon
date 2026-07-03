@@ -1,75 +1,71 @@
-<div align="center">
+<!-- Header wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,6c63ff&height=200&section=header&text=Rahman%20Leon&fontSize=80&fontAlignY=35&desc=Backend%20%26%20AI%20Developer&descSize=25&descAlignY=55&animation=fadeIn" alt="header" />
+</p>
 
-# Hi, I'm Rahman Leon 👋
+<h1 align="center">Hi there, I'm Rahman Leon 👋</h1>
+<h3 align="center">
+  Building AI-powered applications, scalable backends, automation tools, and developer‑first software.
+</h3>
 
-### Backend Developer · AI Developer · Node.js Developer · API Developer · Automation Engineer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahamanleon&label=Profile%20views&color=6c63ff&style=flat" alt="profile-views" />
+</p>
 
-📍 Bangladesh &nbsp;|&nbsp; 🎓 HSC Commerce Student &nbsp;|&nbsp; 💻 Building AI-powered systems & backend tools
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahamanleon)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) (Not available)
+## 📌 About Me
 
-</div>
+- 🎓 HSC Commerce student continuously learning modern software engineering.
+- 💻 Backend & AI developer who loves turning ideas into real, working products.
+- ⚙️ Focused on **Node.js**, **REST APIs**, **AI agents**, **automation** and **developer tools**.
+- 🌱 I believe in practical, maintainable code and constantly explore new technologies.
+- 🤝 Open to collaborating on interesting projects, freelance work, and meaningful open‑source contributions.
 
-<br>
+---
 
-## 👤 About Me
+## 🛠️ Technical Skills
 
-I'm an HSC Commerce student from Bangladesh who enjoys building practical software — automation systems, AI-powered applications, developer tools, and scalable backend services.
-
-I like turning ideas into working systems: AI agents that call tools and remember context, bots that run reliably on WhatsApp and Telegram, and APIs that just work.
-
-- 🔭 Currently building AI agent platforms, bot automation systems, and OCR tools
-- 🌱 Learning TypeScript, Docker, cloud deployment, and system design
-- 💡 Interested in AI agents, backend architecture, REST APIs, automation, OCR, and LLM integration
-- 🤝 Open to collaborating on developer tools, bots, and backend/AI projects
-- 📫 Reach me through the links at the bottom of this profile
-
-<br>
-
-## 🛠️ Tech Stack
-
-**Backend**
-
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=readme&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![Middleware](https://img.shields.io/badge/Middleware-6C63FF?style=for-the-badge&logo=databricks&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-**Frontend**
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON%20Storage-000000?style=for-the-badge&logo=json&logoColor=white)
 
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON%20Storage-000000?style=for-the-badge&logo=json&logoColor=white)
-
-**AI**
-
+### AI & LLMs
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-4285F4?style=for-the-badge)
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-10A37F?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=adobe&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-5C2D91?style=for-the-badge&logo=tesseract&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-00C7B7?style=for-the-badge&logo=chatbot&logoColor=white)
 
-**Automation**
-
-![whatsapp-web.js](https://img.shields.io/badge/whatsapp--web.js-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+### Automation & Bots
+![WhatsApp Web.js](https://img.shields.io/badge/whatsapp--web.js-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF4088?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge&logo=webhooks&logoColor=white)
 
-**Deployment & Tools**
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+### Deployment
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -77,145 +73,125 @@ I like turning ideas into working systems: AI agents that call tools and remembe
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<br>
+---
 
-## 🌱 Current Learning
+## 📚 Currently Learning
 
-- TypeScript
-- Docker
-- Cloud Deployment
-- Software Architecture
-- Performance Optimization
-- System Design
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&label=Learning)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&label=Learning)
+![Cloud Deployment](https://img.shields.io/badge/Cloud%20Deployment-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&label=Exploring)
+![System Design](https://img.shields.io/badge/System%20Design-6C63FF?style=for-the-badge&logo=diagramsdotnet&logoColor=white&label=Studying)
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-000000?style=for-the-badge&logo=archlinux&logoColor=white&label=Studying)
+![Performance](https://img.shields.io/badge/Performance%20Optimization-00C7B7?style=for-the-badge&logo=speedtest&logoColor=white&label=Focus)
 
-<br>
+---
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Agent Platform
-A lightweight AI agent platform with tool calling and persistent memory.
+*A modular AI agent with memory, tool calling, and OCR.*  
+`Node.js` `Express` `MongoDB` `Gemini` `OCR` `JWT`
 
-- REST API architecture
-- MongoDB-backed memory
-- Tool calling / function execution
-- OCR integration
-- Plugin system for extensibility
-- Authentication
-- Built for scalable deployment on Render
-
----
-
-### 💬 WhatsApp Bot V2
-A modular WhatsApp automation bot built for extensibility.
-
-- Modular command system
-- Management dashboard
-- MongoDB storage
-- QR code authentication
-- Role-based permissions
-- Event-driven architecture
-- Plugin architecture
-- Rate limiting
+- Lightweight architecture with REST API
+- MongoDB‑backed memory & plugin system
+- Tool calling, image processing (OCR)
+- Authentication & role‑based access
+- Deployed on **Render**
 
 ---
 
-### 📄 Adaptive OCR API
-A Gemini-powered OCR service with adaptive model routing.
+### 💬 WhatsApp Bot
+*Feature‑rich WhatsApp automation with dashboard & plugins.*  
+`Node.js` `whatsapp-web.js` `MongoDB` `WebSocket`
 
-- Automatic model selection based on image quality
-- Image preprocessing pipeline
-- Structured JSON responses
-- Batch OCR support
+- QR‑based multi‑device authentication
+- Plugin architecture & command system
+- Real‑time dashboard with events
+- Role permissions & MongoDB persistence
+
+---
+
+### 🔍 Adaptive OCR API
+*Intelligent OCR that auto‑selects the best model (Gemini).*  
+`Node.js` `Express` `Gemini` `Sharp` `JSON`
+
+- Automatic model selection based on content
+- Image pre‑processing & enhancement
+- Structured JSON output
+- Batch processing support
 
 ---
 
 ### 🎵 Media API
-An API for searching and retrieving media content.
+*Search, metadata, and download API for audio content.*  
+`Node.js` `Express` `Cheerio` `Cache`
 
-- Audio search
-- Metadata retrieval
-- Download support
-- Playlist support
-- Response caching
+- Multi‑source search & audio download
+- Rich metadata extraction
+- Playlist support & caching layer
 
 ---
 
 ### 🧰 Utility APIs
-A collection of small, focused utility APIs.
+*A collection of simple but useful developer utilities.*  
+`Node.js` `Express` `Canvas` `PDFKit`
 
-- QR code generator
-- URL shortener
-- Password generator
-- Image converter
-- PDF utilities
+- QR Code Generator
+- URL Shortener
+- Password Generator
+- Image Converter
+- PDF Utilities (merge, extract, convert)
 
-<br>
+---
 
-## 🌍 Open Source
+## 🌱 Open Source
 
-I enjoy building developer tools, creating reusable libraries, contributing to open source projects, and learning from the community. Always looking for interesting codebases to dig into.
+I love building tools that make other developers’ lives easier. I regularly:
 
-<br>
+- Create reusable libraries and utilities
+- Learn by reading real‑world open‑source code
+- Share projects that solve everyday problems
+- Keep an eye on community feedback to improve
 
-## 📊 GitHub Statistics
+*Every line of code I write is a learning opportunity, and I’m always excited to contribute back.*
 
-<div align="center">
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahamanleon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=E6EDF3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahamanleon&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideNums=E6EDF3&sideLabels=E6EDF3&dates=8B949E" alt="GitHub Streak" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahamanleon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=E6EDF3" alt="Top Languages" width="38%" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahamanleon&theme=react-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=E6EDF3&hide_border=true" alt="Activity Graph" width="90%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahamanleon&theme=onestar&no-frame=true&column=7&margin-w=15&bg_color=0D1117" alt="Trophies" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)
+---
 
-</div>
+## 📬 Let's Connect
 
-<!-- Optional: Contribution Snake — enable by creating the snake workflow in your profile repo
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
--->
+<p align="center">
+  <a href="https://github.com/rahamanleon"><img src="https://img.shields.io/badge/GitHub-rahamanleon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:rahamanleon16@gmail.com"><img src="https://img.shields.io/badge/Email-rahamanleon16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/mind.ur.own.business.113"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
-<!-- Optional: Trophies
-<div align="center">
+<p align="center">
+  Have an idea, collaboration, or interesting project? Feel free to reach out.<br>
+  I’m always excited to build useful software and learn something new.
+</p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1)
-
-</div>
--->
-
-<br>
-
-## 💭 Fun Facts
-
-- I like building things that run quietly in the background and just work — bots, agents, scheduled jobs.
-- I'm still in school (HSC Commerce) while building production-style backend systems on the side.
-- Most of my projects start as "let me just see if this is possible" experiments.
-
-<br>
-
-## 📬 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahamanleon)
-[![Email](https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahamanleon16@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Discord](https://img.shields.io/badge/Discord-YOUR_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![Telegram](https://img.shields.io/badge/Telegram-YOUR_TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_USERNAME)
-
-</div>
-
-<br>
-
-<div align="center">
-
-⭐️ Thanks for stopping by — feel free to explore my repositories.
-
-</div>
+<!-- Footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,6c63ff&height=120&section=footer" alt="footer" />
+</p>
