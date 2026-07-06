@@ -22,7 +22,7 @@ I'm Rahaman Leon — a developer building AI tools, open-source APIs, and automa
 | [Shazam-API](https://github.com/rahamanleon/Shazam-API) | Audio recognition via acoustic fingerprinting | ⭐ |
 | [WorldCup2026](https://github.com/rahamanleon/worldcup2026) | FIFA World Cup 2026 REST API | |
 | [Dora Agent](https://github.com/rahamanleon/Dora-agent) | AI Agent with memory and web tools | |
-| [PicoClaw](https://github.com/rahamanleon/picoclaw) | Tiny Go AI assistant | |
+
 
 
 ---
